@@ -1,0 +1,4 @@
+This only works for Pro and Enterprise
+
+run > gpedit.msc
+Local Computer Policy > Computer Configuration > Administrative Templates > Windows Components > Search. Double-click the policy named Allow Cortana.
